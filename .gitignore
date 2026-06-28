@@ -1,0 +1,15 @@
+# Compiled simulation outputs
+sim/sram_sim
+sim/dff_sim
+sim/clb_sim
+sim/*.vcd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# TerosHDL cache
+.teros/
